@@ -1,0 +1,42 @@
+.tip-amount {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tip-amount-text {
+  height: 44px;
+  width: 98px;
+  border-radius: 0px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  /* align-items: center; */
+}
+.tip-amount-text1 {
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.tip-amount-text2 {
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 19px;
+  text-align: left;
+  color: #7f9d9f;
+}
+.tip-amount-num {
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 71px;
+  text-align: right;
+  letter-spacing: -1px;
+
+  color: #26c2ae;
+}

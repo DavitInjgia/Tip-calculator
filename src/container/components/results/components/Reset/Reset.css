@@ -1,0 +1,16 @@
+.reset-btn {
+  background: #26c2ae;
+  border-radius: 5px;
+  height: 48px;
+  width: 333px;
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #00474b;
+}

@@ -1,0 +1,23 @@
+.tip {
+  height: 48px;
+  width: 117px;
+  border-radius: 5px;
+  background-color: #00474b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.tip-percent {
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #ffffff;
+}
+.tip-hover{
+  background-color: #9FE8DF;
+  color: #00474B;
+}

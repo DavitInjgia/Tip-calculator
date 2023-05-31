@@ -1,0 +1,27 @@
+.custom-tip {
+  height: 48px;
+  width: 117px;
+  border-radius: 5px;
+  background-color: #F3F9FA;
+  border: 2px solid #26C2AE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.custom-tip-inp{
+    border: none;
+    outline: none;
+    width: 100%;
+    text-align: right;
+    font-family: "Space Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    background-color: transparent;
+    text-align: right;
+    color: #00474b;
+}

@@ -1,0 +1,42 @@
+.total-amount {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .total-amount-text {
+    height: 44px;
+    width: 98px;
+    border-radius: 0px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  .total-amount-text1 {
+    font-family: "Space Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ffffff;
+  }
+  .total-amount-text2 {
+    font-family: "Space Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 19px;
+  
+    color: #7f9d9f;
+  }
+  .total-amount-num {
+    font-family: "Space Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 71px;
+    text-align: right;
+    letter-spacing: -1px;
+  
+    color: #26c2ae;
+  }
+  

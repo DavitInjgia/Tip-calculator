@@ -1,0 +1,36 @@
+
+.bill-title {
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #5e7a7d;
+  margin-bottom: 5px;
+}
+.bill-input {
+  border-radius: 5px;
+  background: #f3f9fa;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 3px;
+}
+.bill-dolar {
+  color: #9ebbbd;
+}
+.bill-inp {
+  border: none;
+  outline: none;
+  width: 100%;
+  text-align: right;
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+  background-color: transparent;
+  text-align: right;
+  color: #00474b;
+}

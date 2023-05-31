@@ -1,0 +1,13 @@
+.tips-title {
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #5e7a7d;
+}
+.tips-choose{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
